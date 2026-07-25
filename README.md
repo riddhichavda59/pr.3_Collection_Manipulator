@@ -179,5 +179,7 @@ After completing this project, you will learn:
 🎉 **Collection Manipulator** is an excellent beginner-level Python project that provides hands-on experience with Lists, Dictionaries, Tuples, and Sets. It helps learners understand data management concepts while building a practical console-based application.
 
 # Connect With Me:
+
 #Linkedin id:www.linkedin.com/in/riddhichavda592008
+
 #Email id:riddhichavda59@gmail.com
